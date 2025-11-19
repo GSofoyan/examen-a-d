@@ -1,0 +1,12 @@
+[PLAYERS]
+Hazard;10
+KDB;7
+Lukaku;9
+Gevorg;17
+[PASSES]
+Hazard->Lukaku:102
+Hazard->Gevorg:5
+KDB->Lukaku:10
+Lukaku->KDB:6
+Gevorg->Hazard:4
+
